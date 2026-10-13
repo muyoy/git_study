@@ -7,6 +7,13 @@
 *.o
 *.obj
 
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+CachedAssetRegistry.bin
+
 # Precompiled Headers
 *.gch
 *.pch
